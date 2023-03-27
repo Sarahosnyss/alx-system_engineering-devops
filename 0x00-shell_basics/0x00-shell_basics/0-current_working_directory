@@ -1,0 +1,9 @@
+mod +x 0-current_working_directory
+git add .
+git commit -m "Initial commit"
+git push
+vi README
+git add README
+git commit -m "Update README"
+git push
+
